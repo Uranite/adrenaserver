@@ -1,0 +1,13 @@
+name = "Not Adrenaserver"
+author = "Uranite"
+version = "1.0.0+1.21.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9d6873efb21637b8fe86135d178a7c1dbe1f0a96e7ecdef83106e5e4ba3a7a20"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.21"

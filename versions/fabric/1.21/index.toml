@@ -1,0 +1,77 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
+
+[[files]]
+file = "config/yosbr/config/servercore.toml"
+hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "cc52d7f5890d8d743806a04c64faf91d915371a8769ace2700ef4f922913acf6"
+
+[[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "02b86828f925b9c077affdcad610425414931c7dbe083fef42e3743acc80f7ab"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "6c4021c5cf9017223bbc5dc0c735087baf39aa67a2d2f86e22c64b999e9efe79"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "187a72ac973f74f60ee363a52901f66fb3063e229d830cee3ab6920c13a53d87"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "24d8c57673da91e9a2f9430b7a4fe9e1693e152c5f823d2cdef4495765df60a6"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "f632c6f98de8644ad2fa0153ab1211bd9f2751fe84620b894ab5f6f558efaae4"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "f937ca0de07e36477286eebbd0b592920b5d8c76c0422d27bd2303732061bf5e"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "c29a03a3dcb8588cba64da4f436557f39ede724a0ff7b6fd1b8edc1341ee4293"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true

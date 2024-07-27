@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
+hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "24d8c57673da91e9a2f9430b7a4fe9e1693e152c5f823d2cdef4495765df60a6"
+hash = "9ba40cbb5d1da9666bf4b3a0ff6fa7e9520230252bc4cf00f02848f3e4633957"
 metafile = true
 
 [[files]]

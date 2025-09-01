@@ -1,0 +1,13 @@
+name = "Adrenaserverfork"
+author = "yiss"
+version = "1.0.0+1.21.4.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bfd25e56cd6db4d8f526bf09a8baef4830fd36e5e21dd0b62b382c4a0e0098bd"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.8"

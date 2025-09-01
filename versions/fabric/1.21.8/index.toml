@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "5287b32edcac91203df51c442436bab5ed42e3add3303406f9cdd832a912249a"
+
+[[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
@@ -39,11 +43,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "a874985359eaa4317b3242136fe65b86207a6d5ab55e0b4aa8f37b90727f0487"
 metafile = true
 
 [[files]]

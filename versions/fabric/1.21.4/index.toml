@@ -18,12 +18,12 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1d5db1bb916b7efc637eb38dd583ded0765aec883faa30f3cf2464b1e82e1d40"
+hash = "1d6a658473589e15d906a591257e1ed769b6fcb298c4affe32163a9ca2316b33"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8b8abe0b0bfbabe50f9e37c5b165535de5868459b89634db74dcdd1d83babf4d"
+hash = "b2f2ef63febe17f277635827ca474e1aeae321e8a82bef78942116f95d00250a"
 metafile = true
 
 [[files]]
@@ -38,7 +38,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "58bc826a0b2f0ba422144d35941dd912d349877225e121446180a14d7872040d"
+hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
 metafile = true
 
 [[files]]
@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "75c6c91ac4b0a79ef8bc109bb44dda1c090835ee6f8406f4f5a7ee6803f634bd"
+hash = "841b2a3eb5b54a05b8f603da3fb3af84ba4a8064ab8366003dcd3c1c97f0ee99"
 metafile = true
 
 [[files]]
@@ -68,12 +68,12 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "b59261452b61286cd8eab263e9f066d5d14c4cf8f99ec8142eab5df4da814ddd"
+hash = "fde5b4407f35051b3c35e2bc04a71540a1ec21832de609c75f79ae24bb2d9f1d"
 metafile = true
 
 [[files]]

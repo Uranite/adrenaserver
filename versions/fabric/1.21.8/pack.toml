@@ -1,6 +1,6 @@
 name = "Adrenaserverfork"
 author = "yiss"
-version = "1.0.0+1.21.4.fabric"
+version = "1.0.0+1.21.8.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]

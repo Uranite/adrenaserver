@@ -26,11 +26,6 @@ hash = "01c5eb93a204f6b917b21aefd8e1c1268c8c0e63a9b6b34c4173bd7c8ff3dca5"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "759030c892c5798d6e26d4d414532182959cb4c592ac62e1ca109394cc1bd9ed"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "18a90284cb04058c019dfcb2673a786b1b47a2b759308fca767be44fb07cfdee"
 metafile = true
@@ -62,11 +57,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "4e1dd52be6541751029a370a02c83cc663a8be8b62187a4aa273ca02a154fc37"
-metafile = true
-
-[[files]]
-file = "mods/raknetify.pw.toml"
-hash = "841b2a3eb5b54a05b8f603da3fb3af84ba4a8064ab8366003dcd3c1c97f0ee99"
 metafile = true
 
 [[files]]

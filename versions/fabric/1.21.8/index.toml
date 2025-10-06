@@ -17,10 +17,6 @@ file = "config/yosbr/config/servercore/optimizations.yml"
 hash = "c1347aa983b02f5e59fcbd4f931501e2705330c5cf25e723d3239b85e6b6e262"
 
 [[files]]
-file = "config/yosbr/config/threadtweak.json"
-hash = "34f91912af00767501c6b0639e86690cab26180c8c2a9bd768ffe89e2033158d"
-
-[[files]]
 file = "config/yosbr/config/vmp.properties"
 hash = "ea15f808b99e85cffeceba875de0406012eb43b1780d366de3a4c82a9c9aece4"
 
@@ -31,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f9b05ef1c6fb7e4d1c44b9468d7deacfe493d9f34182587e21ef1cb696fc677e"
+hash = "89bd18325ea4e74dd81f9c70ed2105a070d40a109bd78ae74542fa1a3935908f"
 metafile = true
 
 [[files]]
@@ -46,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
+hash = "a63765eb780a36cd968e2777d2c20bea5e5ca3ccdd920e64964e3746cf2a7f0d"
 metafile = true
 
 [[files]]
@@ -71,11 +67,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "284e709de197c7bbd323489c83baf288006785e8cd8d3cf8b38cf7dbbbc36703"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
 
 [[files]]

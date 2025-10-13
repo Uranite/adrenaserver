@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "5287b32edcac91203df51c442436bab5ed42e3add3303406f9cdd832a912249a"
-
-[[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
@@ -51,12 +47,7 @@ hash = "37c29703f8d75a0b13d104a012b71fd0b1e0d62a9eeeda9c1bb5ec70ad07a56d"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "4e1dd52be6541751029a370a02c83cc663a8be8b62187a4aa273ca02a154fc37"
+hash = "18360f497689d81ce5b4a58571c099bf5a7f66e085ccd7196cd129158b328f15"
 metafile = true
 
 [[files]]

@@ -61,6 +61,11 @@ hash = "284e709de197c7bbd323489c83baf288006785e8cd8d3cf8b38cf7dbbbc36703"
 metafile = true
 
 [[files]]
+file = "mods/tt20.pw.toml"
+hash = "c37214a6ce3b7b2b6391b22d3d98d0d26786a307b8906361dbdad87698d06a55"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "989b6c4ff3dc08d7994667b4dfc9931a3b15876eabe4f9de7be8939153bb1fdc"
 metafile = true

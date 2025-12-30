@@ -1,12 +1,12 @@
-name = "Adrenaserverfork"
-author = "yiss"
-version = "1.0.0+1.21.8.fabric"
+name = "Adrenaserver Fork"
+author = "Yiss"
+version = "1.0.0+1.21.11.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "827d57e744d112a1db33e091475d81b67060fcd6183b56472f76562da070f9d2"
+hash = "00f0ce783c7e325432e308c1d9af3ffbcc265fc928371ff4659f58dfbfe74a47"
 
 [versions]
 fabric = "0.18.4"

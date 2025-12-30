@@ -17,6 +17,11 @@ file = "config/yosbr/config/vmp.properties"
 hash = "ea15f808b99e85cffeceba875de0406012eb43b1780d366de3a4c82a9c9aece4"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "accbabc7c723616a375b4a32b30408a618d8fb5ee82d8a77dd7e79ae48577a51"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "bfd131e6be8f8c270857c8622dd95a0d8c32d2a6f1a2cf0e64b6d6063fdddaae"
 metafile = true

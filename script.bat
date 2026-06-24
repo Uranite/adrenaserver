@@ -1,6 +1,6 @@
 @echo off
 
-set "DEFAULT_VERSION=1.21.11"
+set "DEFAULT_VERSION=26.1.2"
 
 if "%1" == "" call :update %DEFAULT_VERSION% & goto :EOF
 if /i "%1" == "update-packwiz" call :update-packwiz & goto :EOF

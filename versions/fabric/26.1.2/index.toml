@@ -10,62 +10,62 @@ hash = "170243bcea72030e12b4c7dfe82abd4b17413457d74fa2964a545e769c2791d6"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "0084d142626c0a39835cf2c6abbafb5fc3d5cf5136117c7e658a8af0c3dc4568"
+hash = "6bed2eb224540b75c8afe311d45af2bcd4169bdfedcccfb0e2a189b0c37f6207"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2ccce9c28059ea90a5457771de06a69b0a2d1f06d48f8add48a38f1a2307da3c"
+hash = "cab10ce7de1bd313d5dc6753f402f1123ff7571373ef185675c862e7cbf4369e"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+hash = "d5060b22fa47d5d56e0f4617904731e9d397d1ba104320b7ec8e59f7ca0700a7"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
+hash = "cd37520fbb14b8d5e9471d8c25324736e02dcf3be4b7c5df1699757b2264049f"
 metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "496f7d1bad22abbde478ccf9fde458732afbc93ab9e5765d85f2501e23ce8db5"
+hash = "2e531dae9197fea52cc553bc6756544c1f4664784874741110294be2fd975fd6"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
+hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "4931a48b30837607a36b0cc7a2d40b32c83a4f7f02bf8a16dbf553e8bba7e0ab"
+hash = "d5a2925609b3dcf060253a1d75414e4c7747c9d5c206c5ff83a678f75b94ff5b"
 metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "16a351dac4db6e5b8035f56090710a227d33482797ef5bcc09a367099304be74"
+hash = "97e4d21abff963db95ddb582a84e1969189fa7d5774b2e508df3b22cf6b82a0a"
 metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "e053f491047089bdce5b4479587f52ad190dc768f1ddf29dcc7541953b6a5a24"
+hash = "6801adb48ee85a21c7c4992625c34a751197382cb952dd25082d145a37de84fb"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
+hash = "96c75aa9280fb3704a4c729b1b1a03d0660af2848455db627e3bdf84170f3f25"
 metafile = true
 
 [[files]]
@@ -75,5 +75,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "4a3ec78067094f39fc81a3673d75ee40191dfd961f6ff960f6b967c6fd712d1b"
+hash = "35448667757bd3218bf47149b17d0c6e8d76b75c8d78ce5249badf7bb03162a4"
 metafile = true

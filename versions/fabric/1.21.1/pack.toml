@@ -1,13 +1,13 @@
-name = "Adrenaserver"
-author = "getchoo"
-version = "1.7.0+1.21.1.fabric"
+name = "Adrenaserver Fork"
+author = "Yiss"
+version = "1.0.0+1.21.1.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8a450289b29b826316fe6b0dfec49fb94f4f7672ac0c08dbb66a1387375fe303"
+hash = "b6ade78e7de7d7fd610e503dcd76f064a64268e5e2ac6ea16ae24426e19e0a17"
 
 [versions]
-fabric = "0.16.2"
+fabric = "0.19.3"
 minecraft = "1.21.1"
